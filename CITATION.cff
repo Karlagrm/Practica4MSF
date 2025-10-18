@@ -13,8 +13,8 @@ authors:
 repository-code: 'https://github.com/Karlagrm/Practica0MSF'
 keywords:
   - >-
-    Palabras Clave: Circuito RLC; Controlador PID; Sistema
-    respiratorio; Modelo matemático; Simulaciones numéricas.
+    Palabras Clave: Sistema cardiovascular; Función de transferencia; Controlador PI; Modelo matematico; 
+    Simulaciones numéricas; Normotenso; Hipotenso; Hipertenso
 license: BSD-2-Clause
 version: '1.0'
 date-released: '2025-10-17'
